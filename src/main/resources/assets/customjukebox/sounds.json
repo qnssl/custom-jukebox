@@ -1,0 +1,1307 @@
+{
+  "track.disc_1": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_1",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_2": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_2",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_3": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_3",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_4": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_4",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_5": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_5",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_6": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_6",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_7": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_7",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_8": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_8",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_9": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_9",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_10": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_10",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_11": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_11",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_12": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_12",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_13": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_13",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_14": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_14",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_15": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_15",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_16": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_16",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_17": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_17",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_18": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_18",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_19": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_19",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_20": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_20",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_21": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_21",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_22": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_22",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_23": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_23",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_24": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_24",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_25": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_25",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_26": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_26",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_27": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_27",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_28": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_28",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_29": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_29",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_30": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_30",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_31": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_31",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_32": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_32",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_33": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_33",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_34": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_34",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_35": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_35",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_36": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_36",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_37": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_37",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_38": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_38",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_39": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_39",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_40": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_40",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_41": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_41",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_42": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_42",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_43": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_43",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_44": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_44",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_45": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_45",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_46": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_46",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_47": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_47",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_48": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_48",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_49": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_49",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_50": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_50",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_51": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_51",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_52": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_52",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_53": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_53",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_54": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_54",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_55": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_55",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_56": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_56",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_57": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_57",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_58": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_58",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_59": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_59",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_60": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_60",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_61": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_61",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_62": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_62",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_63": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_63",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_64": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_64",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_65": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_65",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_66": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_66",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_67": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_67",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_68": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_68",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_69": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_69",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_70": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_70",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_71": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_71",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_72": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_72",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_73": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_73",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_74": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_74",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_75": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_75",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_76": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_76",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_77": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_77",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_78": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_78",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_79": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_79",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_80": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_80",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_81": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_81",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_82": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_82",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_83": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_83",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_84": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_84",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_85": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_85",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_86": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_86",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_87": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_87",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_88": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_88",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_89": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_89",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_90": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_90",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_91": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_91",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_92": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_92",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_93": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_93",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_94": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_94",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_95": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_95",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_96": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_96",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_97": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_97",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_98": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_98",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_99": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_99",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_100": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_100",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_101": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_101",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_102": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_102",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_103": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_103",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_104": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_104",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_105": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_105",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_106": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_106",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_107": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_107",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_108": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_108",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_109": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_109",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_110": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_110",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_111": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_111",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_112": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_112",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_113": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_113",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_114": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_114",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_115": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_115",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_116": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_116",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_117": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_117",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_118": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_118",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_119": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_119",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_120": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_120",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_121": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_121",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_122": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_122",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_123": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_123",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_124": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_124",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_125": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_125",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_126": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_126",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_127": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_127",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_128": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_128",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_129": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_129",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_130": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_130",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_131": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_131",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_132": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_132",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_133": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_133",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_134": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_134",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_135": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_135",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_136": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_136",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_137": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_137",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_138": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_138",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_139": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_139",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_140": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_140",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_141": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_141",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_142": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_142",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_143": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_143",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_144": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_144",
+        "stream": true
+      }
+    ]
+  },
+  "track.disc_145": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "customjukebox:tracks/disc_145",
+        "stream": true
+      }
+    ]
+  }
+}

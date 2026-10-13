@@ -1,0 +1,112 @@
+plugins {
+    id 'fabric-loom' version '1.7.1'
+    id 'maven-publish'
+}
+
+sourceCompatibility = JavaVersion.VERSION_21
+targetCompatibility = JavaVersion.VERSION_21
+
+archivesBaseName = project.archives_base_name
+version = project.mod_version
+group = project.maven_group
+
+repositories {
+    mavenCentral()
+    maven { url "https://api.modrinth.com/maven" }
+    maven { url "https://maven.fabricmc.net/" }
+}
+
+dependencies {
+    // Minecraft
+    minecraft "com.mojang:minecraft:${project.minecraft_version}"
+    mappings "net.fabricmc:yarn:${project.yarn_mappings}:v2"
+
+    // Fabric Loader
+    modImplementation "net.fabricmc:fabric-loader:${project.loader_version}"
+
+    // Fabric API
+    modImplementation "net.fabricmc.fabric-api:fabric-api:${project.fabric_version}"
+}
+
+processResources {
+    inputs.property "version", project.version
+
+    filesMatching("fabric.mod.json") {
+        expand "version": project.version
+    }
+}
+
+tasks.withType(JavaCompile).configureEach {
+    it.options.release = 21
+}
+
+java {
+    withSourcesJar()
+}
+
+jar {
+    from("LICENSE") {
+        rename { "${it}_${project.archivesBaseName}"}
+    }
+}
+
+publishing {
+    publications {
+        mavenJava(MavenPublication) {
+            from components.java
+        }
+    }
+
+    repositories {
+    }
+}
+
+// Автоматически поднимает patch-версию мода в gradle.properties после каждой успешной сборки.
+// 1.0.0 -> 1.0.1 -> ... -> 1.0.9 -> 1.1.0 -> ... -> 1.1.9 -> 1.2.0 и так далее.
+tasks.register('bumpModVersion') {
+    group = 'versioning'
+    description = 'Поднимает patch-версию мода в gradle.properties (с переносом в minor после .9)'
+
+    doLast {
+        def propsFile = file('gradle.properties')
+        def lines = propsFile.readLines()
+        def oldVersion = project.mod_version
+        def newVersion = null
+
+        def newLines = lines.collect { line ->
+            if (line.trim().startsWith('mod_version=')) {
+                def parts = oldVersion.split('\\.')
+                int major = parts[0] as int
+                int minor = parts[1] as int
+                int patch = parts[2] as int
+
+                patch++
+                if (patch > 9) {
+                    patch = 0
+                    minor++
+                    if (minor > 9) {
+                        minor = 0
+                        major++
+                    }
+                }
+
+                newVersion = "${major}.${minor}.${patch}"
+                return "mod_version=${newVersion}"
+            }
+            return line
+        }
+
+        if (newVersion != null) {
+            propsFile.text = newLines.join(System.lineSeparator()) + System.lineSeparator()
+            logger.lifecycle("Версия мода поднята: ${oldVersion} -> ${newVersion}")
+        } else {
+            logger.warn("Не удалось найти строку mod_version в gradle.properties - версия не изменена.")
+        }
+    }
+}
+
+// Запускается как часть 'build', но строго после остальных задач сборки (jar, check и т.д.).
+// Если сборка упадёт на любом из предыдущих шагов, Gradle остановит граф задач,
+// и bumpModVersion не выполнится - версия поднимается только при полном успехе.
+build.dependsOn(bumpModVersion)
+bumpModVersion.mustRunAfter(tasks.matching { it.name != 'bumpModVersion' })

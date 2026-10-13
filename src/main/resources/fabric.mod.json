@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "customjukebox",
+  "version": "${version}",
+  "name": "Custom Jukebox Playlist",
+  "description": "Открывает кастомное меню плейлиста при клике пустой рукой по проигрывателю, с синхронизацией между игроками.",
+  "authors": ["you"],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/customjukebox/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "ru.friends.customjukebox.CustomJukebox"
+    ],
+    "client": [
+      "ru.friends.customjukebox.client.CustomJukeboxClient"
+    ]
+  },
+  "mixins": [],
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "fabric-api": "*",
+    "minecraft": "~1.21.1",
+    "java": ">=21"
+  }
+}

@@ -1,0 +1,22 @@
+.gradle/
+.settings/
+build/
+out/
+run/
+remappedSrc/
+.idea/
+*.iml
+.vscode/
+*.log
+*.hprof
+*.exe
+
+# music and covers
+source_tracks/
+src/main/resources/assets/customjukebox/sounds/tracks/
+src/main/resources/assets/customjukebox/textures/covers/
+
+# ffmpeg and its docs
+bin/
+doc/
+presets/
